@@ -8,7 +8,7 @@ Highly skilled Full Stack Developer with passion for creating cutting edge techn
 
 * 🌍  I'm based in Bahrain
 * ✉️  You can contact me at [Hussainsanad0703@gmail.com](mailto:Hussainsanad0703@gmail.com)
-* 🧠  I'm learning Laraval
+* 🧠  I'm learning Swift
 * ⚡  "Powered by coffee, code, and an endless loop of questionable life choices. 🚀☕💻"
 
 ### Skills
